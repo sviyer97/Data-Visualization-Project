@@ -1,0 +1,14 @@
+{
+  "name": "@liukui17/expander-codes",
+  "main": "014686abcf85022e@2940.js",
+  "version": "2940.0.0",
+  "homepage": "https://observablehq.com/@liukui17/expander-codes",
+  "author": {
+    "name": "Kuikui Liu",
+    "url": "https://observablehq.com/@liukui17"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
